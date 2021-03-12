@@ -1,0 +1,229 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.25.0" title="Shotcut version 21.02.27" producer="main_bin">
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="1920" display_aspect_den="1080" frame_rate_num="30" frame_rate_den="1" colorspace="601"/>
+  <producer id="producer0" in="00:00:00.000" out="00:04:53.733">
+    <property name="length">00:04:53.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/bradl/Videos/Video Projects/Lawn/VideoFiles/Lawn in Summer.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-07-28T13:37:41</property>
+    <property name="shotcut:hash">3350a70d11caf75bd4a3209644fd1550</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:32.900">
+    <property name="length">00:00:32.933</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/bradl/Videos/Video Projects/Lawn/VideoFiles/Picking up Dethatch.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-16T19:19:06</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b032a695ee3f77dbf355a6d6b5691dcf</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:45.300">
+    <property name="length">00:00:45.333</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/bradl/Videos/Video Projects/Lawn/VideoFiles/Rolling by Playground.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-12T19:43:52</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9b50ecad3aacb7ac028d274f87f81408</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="00:02:16.500">
+    <property name="length">00:02:16.533</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/bradl/Videos/Video Projects/Lawn/VideoFiles/Rolling in Action.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-12T19:57:27</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c4ddddea449214a0b0bc8ee248b65004</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:16:52.633">
+    <property name="length">00:16:52.667</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/bradl/Videos/Video Projects/Lawn/VideoFiles/Tools Used for Spring Lawn Care.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-16T17:58:23</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">08766a698f08dfa0bab6970ef35994e2</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Tools Used for Spring Lawn Care.mp4</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="00:01:34.367">
+    <property name="length">00:01:34.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/bradl/Videos/Video Projects/Lawn/VideoFiles/20200412_151059.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-12T19:12:35</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">1b9f201126022922f9f4352579a3fb21</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="00:03:45.100">
+    <property name="length">00:03:45.133</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/bradl/Videos/Video Projects/Lawn/VideoFiles/20200416_163034.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-16T20:34:21</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">42ce6e309ca92d8761510f67c1639907</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="00:01:49.133">
+    <property name="length">00:01:49.167</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/bradl/Videos/Video Projects/Lawn/VideoFiles/Dethatching Spring 2020.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-12T20:50:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2e21477114dfc977a31251c3b5c9bdea</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:07:50.900">
+    <property name="length">00:07:50.933</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/bradl/Videos/Video Projects/Lawn/VideoFiles/Dethatching Take II.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-16T19:05:16</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d85623a47371ff9c7296535fa6c22781</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="00:01:45.700">
+    <property name="length">00:01:45.733</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/bradl/Videos/Video Projects/Lawn/VideoFiles/DJI_0666.MP4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-07-29T18:30:16</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">901304ba1972766f3ddc12a5ac6797ec</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 21.02.27">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:04:53.733"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:32.900"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:45.300"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:02:16.500"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:16:52.633"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:01:34.367"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:03:45.100"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:01:49.133"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:07:50.900"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:01:45.700"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:16:25.400">
+    <property name="length">00:16:25.433</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:16:25.400"/>
+  </playlist>
+  <producer id="producer10" in="00:00:00.000" out="00:16:52.633">
+    <property name="length">00:16:52.667</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/bradl/Videos/Video Projects/Lawn/VideoFiles/Tools Used for Spring Lawn Care.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-04-16T17:58:23</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">08766a698f08dfa0bab6970ef35994e2</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Tools Used for Spring Lawn Care.mp4</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer10" in="00:00:27.233" out="00:16:52.633"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 21.02.27" global_feed="1" in="00:00:00.000" out="00:16:25.400">
+    <property name="shotcut">1</property>
+    <property name="shotcut:scaleFactor">0.679922</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>
